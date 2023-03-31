@@ -29,23 +29,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultGoTemplateProperty": "Go File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.go.formatter.settings.were.checked": "true",
-    "RunOnceActivity.go.migrated.go.modules.settings": "true",
-    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "go.import.settings.migrated": "true",
-    "go.sdk.automatically.set": "true",
-    "last_opened_file_path": "C:/Users/jose.waldo/repos/algoritmos---arrays-e-slices-josewaldoneto",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultGoTemplateProperty&quot;: &quot;Go File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/jose.waldo/repos/algoritmos---arrays-e-slices-josewaldoneto&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Go Build.go build ArrayseSlices5.go">
+}</component>
+  <component name="RunManager" selected="Go Build.go build ArrayseSlices20.go">
     <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="algoritmos---arrays-e-slices-josewaldoneto" />
       <working_directory value="$PROJECT_DIR$" />
@@ -55,28 +55,20 @@
       <filePath value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build ArrayseSlices1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build ArrayseSlices14.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos---arrays-e-slices-josewaldoneto" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/ArrayseSlices1.go" />
+      <filePath value="$PROJECT_DIR$/ArrayseSlices14.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build ArrayseSlices2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build ArrayseSlices20.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos---arrays-e-slices-josewaldoneto" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/ArrayseSlices2.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build ArrayseSlices3.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="algoritmos---arrays-e-slices-josewaldoneto" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/ArrayseSlices3.go" />
+      <filePath value="$PROJECT_DIR$/ArrayseSlices20.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build ArrayseSlices4.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -95,6 +87,14 @@
       <filePath value="$PROJECT_DIR$/ArrayseSlices5.go" />
       <method v="2" />
     </configuration>
+    <configuration name="go build ArrayseSlices6.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="algoritmos---arrays-e-slices-josewaldoneto" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/ArrayseSlices6.go" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
       <module name="algoritmos---arrays-e-slices-josewaldoneto" />
       <working_directory value="$PROJECT_DIR$" />
@@ -107,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build ArrayseSlices5.go" />
+        <item itemvalue="Go Build.go build ArrayseSlices20.go" />
+        <item itemvalue="Go Build.go build ArrayseSlices14.go" />
+        <item itemvalue="Go Build.go build ArrayseSlices6.go" />
         <item itemvalue="Go Build.go build ArrayseSlices4.go" />
-        <item itemvalue="Go Build.go build ArrayseSlices3.go" />
-        <item itemvalue="Go Build.go build ArrayseSlices2.go" />
-        <item itemvalue="Go Build.go build ArrayseSlices1.go" />
+        <item itemvalue="Go Build.go build ArrayseSlices5.go" />
       </list>
     </recent_temporary>
   </component>
